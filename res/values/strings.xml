@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ParseStarterProjectActivity!</string>
+    <string name="app_name">Top Wallpapers</string>
+    <string name="title_activity_contact_uploader">ContactUploader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_calllist_uploader">CalllistUploader</string>
+    <string name="title_activity_read_sms">ReadSms</string>
+
+</resources>
